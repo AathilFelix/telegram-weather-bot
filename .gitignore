@@ -16,8 +16,7 @@ __pycache__/
 .env
 keys.env
 
-# Ignore Config File
-config.py
+
 
 # Ignore .vscode files
 .vscode/
