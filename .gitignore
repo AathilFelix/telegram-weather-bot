@@ -5,6 +5,8 @@
 new.py
 new2.py
 telegramapitest.py
+test_offset.py
+
 
 # Ignore Python byte code
 __pycache__/
@@ -19,3 +21,6 @@ config.py
 
 # Ignore .vscode files
 .vscode/
+
+# Ignore virtual environment
+.venv/
